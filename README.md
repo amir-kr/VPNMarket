@@ -80,7 +80,7 @@
 وارد سرور خود شوید و دستور زیر را اجرا کنید. اسکریپت ما بقیه کارها را به صورت خودکار انجام می‌دهد!
 
 ```bash
-wget -O install.sh https://raw.githubusercontent.com/arvinvahed/VPNMarket/main/install.sh && sudo bash install.sh
+wget -O install.sh https://raw.githubusercontent.com/amir-kr/VPNMarket/main/install.sh && sudo bash install.sh
 ```
 
 ## 🔄 نحوه آپدیت پروژه
